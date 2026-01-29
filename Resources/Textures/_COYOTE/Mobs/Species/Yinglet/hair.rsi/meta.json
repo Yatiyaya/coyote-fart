@@ -1,0 +1,70 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "yinglet hair was taken from https://github.com/ScavStation/ScavStation/blob/main/mods/valsalia/icons/species/yinglet/hair.dmi and modified by Yatiyaya",
+    "size": {
+      "x": 32,
+      "y": 32
+    },
+    "states": [
+        {
+            "name": "hair_afro",
+            "directions": 4
+          },
+          {
+            "name": "hair_akoll",
+            "directions": 4
+          },
+          {
+            "name": "hair_blastback",
+            "directions": 4
+          },
+          {
+            "name": "hair_emo",
+            "directions": 4
+          },
+          {
+            "name": "hair_familyman",
+            "directions": 4
+          },
+          {
+            "name": "hair_flowing",
+            "directions": 4
+          },
+          {
+            "name": "hair_fonzie",
+            "directions": 4
+          },
+          {
+            "name": "hair_long",
+            "directions": 4
+          },
+          {
+            "name": "hair_longmessy",
+            "directions": 4
+          },
+          {
+            "name": "hair_messy",
+            "directions": 4
+          },
+          {
+            "name": "hair_pompador",
+            "directions": 4
+          },
+          {
+            "name": "hair_ponytail",
+            "directions": 4
+          },
+          {
+            "name": "hair_short",
+            "directions": 4
+          },
+          {
+            "name": "hair_spiky",
+            "directions": 4
+          },
+          {
+            "name": "hair_updo",
+            "directions": 4
+          }
+    ]}

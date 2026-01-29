@@ -1,0 +1,49 @@
+- type: body
+  name: "Yinglet"
+  id: Yinglet
+  root: torso
+  slots:
+    head:
+      part: HeadYinglet
+      connections:
+      - torso
+      organs:
+        brain: OrganHumanBrain
+        eyes: OrganHumanEyes
+    torso:
+      part: TorsoYinglet
+      organs:
+        heart: OrganHumanHeart
+        lungs: OrganHumanLungs
+        stomach: OrganHumanStomach
+        liver: OrganHumanLiver
+        kidneys: OrganHumanKidneys
+      connections:
+      - right arm
+      - left arm
+      - right leg
+      - left leg
+    right arm:
+      part: RightArmYinglet
+      connections:
+      - right hand
+    left arm:
+      part: LeftArmYinglet
+      connections:
+      - left hand
+    right hand:
+      part: RightHandYinglet
+    left hand:
+      part: LeftHandYinglet
+    right leg:
+      part: RightLegYinglet
+      connections:
+      - right foot
+    left leg:
+      part: LeftLegYinglet
+      connections:
+      - left foot
+    right foot:
+      part: RightFootYinglet
+    left foot:
+      part: LeftFootYinglet

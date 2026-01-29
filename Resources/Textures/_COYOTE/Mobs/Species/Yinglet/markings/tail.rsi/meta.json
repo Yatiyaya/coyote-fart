@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "yinglet tails was taken from https://github.com/ScavStation/ScavStation/blob/main/mods/valsalia/icons/species/yinglet/tail.dmi and modified by Yatiyaya",
+    "size": {
+      "x": 32,
+      "y": 32
+    },
+    "states": [
+        {
+            "name": "tail_yinglet",
+            "directions": 4
+          },
+          {
+            "name": "tail_yinglet_",
+            "directions": 4
+          },
+          {
+            "name": "tail_yinglet_female",
+            "directions": 4
+          },
+          {
+            "name": "tail_yinglet_male",
+            "directions": 4
+          }
+    ]}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "yinglet lipstick was taken from https://github.com/ScavStation/ScavStation/blob/main/mods/valsalia/icons/species/yinglet/cosmetics.dmi and modified by Yatiyaya",
+    "size": {
+      "x": 32,
+      "y": 32
+    },
+    "states": [
+        {
+            "name": "lipstick",
+            "directions": 4
+          }
+    ]}

@@ -1,0 +1,135 @@
+- type: marking
+  id: YingletFrontFluff
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Yinglet]
+  forcedColoring: true
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\body.rsi
+    state: frontfluff
+
+- type: marking
+  id: YingletFrontHead
+  bodyPart: Head
+  markingCategory: FacialHair
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\body.rsi
+    state: fronthead
+
+- type: marking
+  id: YingletLimbs
+  bodyPart: LHand, LArm, RHand, RArm
+  markingCategory: Overlay
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\body.rsi
+    state: limbs
+
+- type: marking
+  id: YingletTorsoFront
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\body.rsi
+    state: torsofront
+
+- type: marking
+  id: YingletUnderFluff
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\body.rsi
+    state: underfluff
+
+- type: marking
+  id: YingletLongEars
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\ears.rsi
+    state: longears
+
+- type: marking
+  id: YingletshortEars
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\ears.rsi
+    state: shortears
+
+- type: marking
+  id: YingletEyeshadow
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\eyeshadow.rsi
+    state: eyeshadow
+
+- type: marking
+  id: YingletLipstick
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\lipstick.rsi
+    state: lipstick
+
+- type: marking
+  id: YingletTail_
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\tail.rsi
+    state: tail_yinglet_
+
+- type: marking
+  id: YingletTail_Female
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\tail.rsi
+    state: tail_yinglet_female
+
+- type: marking
+  id: YingletTail_Male
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\tail.rsi
+    state: tail_yinglet_male
+
+- type: marking
+  id: YingletTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\tail.rsi
+    state: tail_yinglet
+
+- type: marking
+  id: YingletLongTooth
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\tooth.rsi
+    state: longtooth
+
+- type: marking
+  id: YingletShortTooth
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Yinglet]
+  sprites:
+  - sprite: _COYOTE\Mobs\Species\Yinglet\markings\tooth.rsi
+    state: shorttooth
